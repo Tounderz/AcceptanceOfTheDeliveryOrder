@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj": {}
+    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj": {
+    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj",
+        "projectUniqueName": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj",
         "projectName": "AcceptanceOfTheDeliveryOrder",
-        "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj",
+        "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder.csproj",
         "packagesPath": "C:\\Users\\basta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\AcceptanceOfTheDeliveryOrder\\obj\\",
+        "outputPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\AcceptanceOfTheDeliveryOrder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj": {
-                "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj"
+              "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj": {
+                "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj"
               }
             }
           }
@@ -79,7 +80,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,18 +93,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj": {
+    "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj",
         "projectName": "OrderLibrary",
-        "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj",
+        "projectPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj",
         "packagesPath": "C:\\Users\\basta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\obj\\",
+        "outputPath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,6 +119,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -140,7 +143,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -149,7 +153,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

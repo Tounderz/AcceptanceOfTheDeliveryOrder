@@ -10,3 +10,15 @@ C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\OrderLibrary\obj\Debug\
 C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\OrderLibrary\obj\Debug\net6.0\refint\OrderLibrary.dll
 C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\OrderLibrary\obj\Debug\net6.0\OrderLibrary.pdb
 C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\OrderLibrary\obj\Debug\net6.0\ref\OrderLibrary.dll
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\bin\Debug\net6.0\OrderLibrary.deps.json
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\bin\Debug\net6.0\OrderLibrary.dll
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\bin\Debug\net6.0\OrderLibrary.pdb
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.csproj.AssemblyReference.cache
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.AssemblyInfoInputs.cache
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.AssemblyInfo.cs
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.dll
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\refint\OrderLibrary.dll
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\OrderLibrary.pdb
+C:\Users\basta\source\repos\AcceptanceOfTheDeliveryOrder\backEnd\OrderLibrary\obj\Debug\net6.0\ref\OrderLibrary.dll

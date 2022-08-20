@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xeYwJspb4+GN4cjf5sVSCHl4evp1TEq0p2Dsn4pdMMQ93c02WxMA+8kJiIphXTQsyR887BJ5n0OQFIAycxYdRw==",
+  "dgSpecHash": "7y2x/pOYVg+O7ioYAP0cHe7CY8qsoVvl7qNVLhBXCraFjIPn0kk/akyvWVb2VD7/4ccJW8GgUPQ2nFZ1tGYCHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\OrderLibrary\\OrderLibrary.csproj",
+  "projectFilePath": "C:\\Users\\basta\\source\\repos\\AcceptanceOfTheDeliveryOrder\\backEnd\\OrderLibrary\\OrderLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
